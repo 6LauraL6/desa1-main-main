@@ -1,0 +1,320 @@
+codequipo,solicitante,ubicacion,municipio,provincia,lat,lon,tipoInstalacion
+1003,Aeropuerto de Vigo,Aeroporto de Vigo,VIGO,PONTEVEDRA,42.2257,-8.6328,En aeropuertos o estaciones
+1030,Protección Civil de Redondela,Protección Civil - Playa de Area Longa,REDONDELA,PONTEVEDRA,42.2644,-8.6768,Protección civil (no amb.)
+1033,Piscina Municipal de Villagarcía,Piscina Municipal,VILAGARCIA DE AROUSA,PONTEVEDRA,42.584,-8.7749,En piscina pública
+1034,Protección Civil de Redondela,Playa de Cesantes,REDONDELA,PONTEVEDRA,42.3097,-8.6233,Protección civil (no amb.)
+1042,Pavillón Municipal de Deportes de Pontevedra,Pavillón Municipal de Deportes de Pontevedra,PONTEVEDRA,PONTEVEDRA,42.4366,-8.6415,En instalaciones deportivas
+1043,Concello de Pontevedra,Pavillón Multiusos da Xunqueira de Pontevedra,PONTEVEDRA,PONTEVEDRA,42.4383,-8.6369,En instalaciones deportivas
+1044,Campo de herba sintética Xunqueira 1 (Pontevedra),Campo de herba sintética Xunqueira 1 (Pontevedra),PONTEVEDRA,PONTEVEDRA,42.4395,-8.6354,En instalaciones deportivas
+1075,Complexo Deportivo Rías do Sur,Complexo Deportivo Rías do Sur,PONTEVEDRA,PONTEVEDRA,42.4198,-8.6609,En instalaciones deportivas
+1101,Balneario de Mondariz,Balneario de Mondariz,MONDARIZ - BALNEARIO,PONTEVEDRA,42.2272,-8.4658,Otros
+1114,Concello de Vigo,Pabellón Municipal As Travesas,VIGO,PONTEVEDRA,42.2191,-8.7321,En instalaciones deportivas
+1135,Lear Corporation Vigo,Lear Corporation Vigo,VIGO,PONTEVEDRA,42.1761,-8.7113,En empresa privada
+1136,MCSYNCRO,Mcsyncro,VIGO,PONTEVEDRA,42.2284,-8.755,En empresa privada
+1139,Centro Galego de Tecnificación Deportiva,Entrada Principal,PONTEVEDRA,PONTEVEDRA,42.4321,-8.6381,Otros
+1140,Centro Galego de Tecnificación Deportiva,Pabellón de remo,PONTEVEDRA,PONTEVEDRA,42.4322,-8.6379,En instalaciones deportivas
+1141,PC O Grove,Puesto de PC playa de A Lazanda,SANXENXO,PONTEVEDRA,42.4386,-8.8713,Protección civil (no amb.)
+1146,Farmacia Herreros,Farmacia Herreros,PONTEVEDRA,PONTEVEDRA,42.4322,-8.6452,En empresa privada
+1149,Cruz Roja Pontevedra,Praia Fortiñón,VIGO,PONTEVEDRA,42.1758,-8.8136,Cruz roja (no amb.)
+1163,Concello de Tui,Centro Interfederado,TUI,PONTEVEDRA,42.0398,-8.6455,Otros
+1164,Concello de Tui,Campo de fútbol Álvarez Durán,TUI,PONTEVEDRA,42.0568,-8.6693,En instalaciones deportivas
+1197,Concello de Mos,Campo de fútbol Cototorrón,MOS,PONTEVEDRA,42.192,-8.6447,En instalaciones deportivas
+1198,Concello de Mos,Campo de Fútbol de As Baloutas,MOS,PONTEVEDRA,42.189,-8.6215,En instalaciones deportivas
+1199,Concello de Arbo,Campo de Fútbol Municipal,ARBO,PONTEVEDRA,42.1074,-8.3024,En instalaciones deportivas
+1200,Concello de Tui,Campo de Fútbol de Ribadelouro,TUI,PONTEVEDRA,42.0936,-8.6499,En instalaciones deportivas
+1208,Concello de Valga,Polideportivo Baño - Xanzo,VALGA,PONTEVEDRA,42.7052,-8.6533,En instalaciones deportivas
+1209,Concello de Valga,Campo de Fútbol Baño,VALGA,PONTEVEDRA,42.7055,-8.6552,En instalaciones deportivas
+1210,Concello de Valga,Auditorio Municipal de Valga,VALGA,PONTEVEDRA,42.6986,-8.6855,Protección civil (no amb.)
+1212,Concello de Sanxenxo,Piscina Municipal,SANXENXO,PONTEVEDRA,42.3994,-8.8234,En piscina pública
+1214,Concello de Pontecaldelas,Campo de Fútbol Chan da Barcia,PONTE-CALDELAS,PONTEVEDRA,42.3885,-8.4999,En instalaciones deportivas
+1215,Concello de Barro,Campos de Fútbol do concello,BARRO,PONTEVEDRA,42.5481,-8.6286,En instalaciones deportivas
+1216,Concello de Vilaboa,Campo de Fútbol Chan do Vilar,VILABOA,PONTEVEDRA,42.3809,-8.6399,En instalaciones deportivas
+1217,Concello de Vilaboa,Campo de Fútbol O Cabalo,VILABOA,PONTEVEDRA,42.3301,-8.6431,En instalaciones deportivas
+1218,Concello de Vilaboa,Campo de Fútbol San Adrián,VILABOA,PONTEVEDRA,42.3072,-8.6612,En instalaciones deportivas
+1227,Concello de Marin,Pabellón da Raña (San Pedro s/n),MARIN,PONTEVEDRA,42.3841,-8.6973,En instalaciones deportivas
+1228,Concello de Marin,Estadio Municipal de San Pedro,MARIN,PONTEVEDRA,42.3829,-8.6967,En instalaciones deportivas
+1229,Concello de Marin,Pabellón de A Cañota,MARIN,PONTEVEDRA,42.3922,-8.6931,En instalaciones deportivas
+1231,Concello de Lalín,Pabellón Municipal de Deportes (acceso a vestuarios),LALIN,PONTEVEDRA,42.6641,-8.108,En instalaciones deportivas
+1232,Concello de Lalín,Complexo deportivo Lalín Arena (junto a sala de ejercicios),LALIN,PONTEVEDRA,42.6598,-8.1176,En piscina pública
+1233,Concello de Lalín,Estadio Manuel Anxo Cortizo (entrada de vestuarios),LALIN,PONTEVEDRA,42.65,-8.1251,En instalaciones deportivas
+1234,Deputación de Pontevedra,Museo de Pontevedra,PONTEVEDRA,PONTEVEDRA,42.4322,-8.6432,Otros
+1235,Deputación de Pontevedra,Pabellón Deportivo Príncipe Felipe,PONTEVEDRA,PONTEVEDRA,42.4262,-8.6145,En instalaciones deportivas
+1236,Deputación de Pontevedra,ORAL Dept. Provincial Pontevedra,PONTEVEDRA,PONTEVEDRA,42.4274,-8.6518,Otros
+1247,MetalShips&Docks,Portería MetalShips&Docks,VIGO,PONTEVEDRA,42.257,-8.6895,En empresa privada
+1303,Concello de Agolada,Campo de fútbol,AGOLADA,PONTEVEDRA,42.7613,-8.0237,En instalaciones deportivas
+1305,IES Ricardo Mella,IES Ricardo Mella (secretaría),VIGO,PONTEVEDRA,42.2176,-8.6796,En centros docentes
+1316,Alcampo Vigo,Alcampo Vigo I (Coia),VIGO,PONTEVEDRA,42.2193,-8.7452,En empresa privada
+1317,Alcampo Vigo,Alcampo Vigo II (Avda. Madrid),VIGO,PONTEVEDRA,42.2279,-8.7186,En empresa privada
+1322,Concello de Redondela,Pabellón Deportes Chapela,REDONDELA,PONTEVEDRA,42.2666,-8.6666,En instalaciones deportivas
+1333,Universidad de Vigo,Facultad de C. Educ. y Deporte,PONTEVEDRA,PONTEVEDRA,42.4413,-8.6372,En centros docentes
+1339,Concello de Soutomaior,Pabellón A Montesiña,SOUTOMAIOR,PONTEVEDRA,42.3377,-8.5866,En instalaciones deportivas
+1340,Concello de Soutomaior,Campo de Fútbol de Salgueirón,SOUTOMAIOR,PONTEVEDRA,42.3422,-8.5919,En instalaciones deportivas
+1351,Piscina Mancomunada de Val Miñor,Gimnasio de la Piscina Mancomunada de Val Miñor (en la planta 0),NIGRAN,PONTEVEDRA,42.1188,-8.8116,En piscina pública
+1373,Real Club Naútico de Vigo,Piscina,VIGO,PONTEVEDRA,42.241,-8.7247,En piscina pública
+1387,CITEXVI,CITEXVI,VIGO,PONTEVEDRA,42.1678,-8.6828,Otros
+1396,URECA,Botiquín Socorrista,NIGRAN,PONTEVEDRA,42.1325,-8.8073,Otros
+1403,Termas de Cuntis,Termas de Cuntis,CUNTIS,PONTEVEDRA,42.634,-8.5643,Otros
+1412,Domiberia S.L.U.,Servicio Médico DOMIBERIA,VIGO,PONTEVEDRA,42.1966,-8.7707,En empresa privada
+1414,Carrefour,Puesto de Seguridad,PONTEVEDRA,PONTEVEDRA,42.4172,-8.6455,En empresa privada
+1423,Universidad de Vigo,ETS Ingenieria Industrial (Conserjería),VIGO,PONTEVEDRA,42.1702,-8.6873,En centros docentes
+1444,Domiberia S.L.U.,Oficina del Encargado de Litografía,VIGO,PONTEVEDRA,42.1967,-8.771,En empresa privada
+1454,Universidad de Vigo,Conserxería (Fac. Ciencia-Deporte),PONTEVEDRA,PONTEVEDRA,42.4413,-8.6372,En centros docentes
+1499,TECCARSA,TECCARSA,FORCAREI,PONTEVEDRA,42.5683,-8.3364,En empresa privada
+1500,Protección y Seguridad Técnica S.A.,Centro Comercial Gran Vía de Vigo,VIGO,PONTEVEDRA,42.2206,-8.7242,Otros
+1503,Concello de Vigo,Piscina Municipal O Carmen (Travesas),VIGO,PONTEVEDRA,42.219,-8.7295,En piscina pública
+1504,Concello de Vigo,Piscina Municipal Lavadores,VIGO,PONTEVEDRA,42.2273,-8.6979,En piscina pública
+1505,Concello de Vigo,Piscina Municipal Teis,VIGO,PONTEVEDRA,42.2442,-8.7017,En piscina pública
+1506,Concello de Vigo,Piscina Municipal Valadares,VIGO,PONTEVEDRA,42.1747,-8.7213,En piscina pública
+1541,Protección y Seguridad Técnica S.A.,PLANTA CENTRO COMERCIAL,VIGO,PONTEVEDRA,42.2206,-8.7242,Otros
+1542,SEGANOSA,Seganosa,SALVATERRA,PONTEVEDRA,42.1069,-8.5085,En empresa privada
+1979,CAMPING BALTAR,Botiquin,SANXENXO,PONTEVEDRA,42.4013,-8.8244,Otros
+2083,Instituto Politécnico Marítimo Pesqueiro (IPMP) del Atlántico de Vigo,IPMP do Atlántico de Vigo (HALL ENTRADA),VIGO,PONTEVEDRA,42.235,-8.7349,En centros docentes
+2097,METROPOLITAN SPAIN S. L.,Gimnasios METROPOLITAN SPAIN S. L.,VIGO,PONTEVEDRA,42.2406,-8.73,En instalaciones deportivas
+2109,Concello de Pontevedra,Campo de Herba Sintética de Monte Porreiro,PONTEVEDRA,PONTEVEDRA,42.4641,-8.6213,En instalaciones deportivas
+2110,Concello de Pontevedra,Pavillón de Deportes de Marcón,PONTEVEDRA,PONTEVEDRA,42.4072,-8.6183,En instalaciones deportivas
+2111,Concello de Pontevedra,Campo de Herba Sintética de Marcón,PONTEVEDRA,PONTEVEDRA,42.4105,-8.6183,En instalaciones deportivas
+2115,MARINE INSTRUMENTS SA,MARINE INSTRUMENTS,NIGRAN,PONTEVEDRA,42.1398,-8.7913,En empresa privada
+2137,ISSGA PONTEVEDRA,Edificio ISSGA PONTEVEDRA,REDONDELA,PONTEVEDRA,42.2877,-8.643,Otros
+2145,IES Politécnico de Vigo,IES Politécnico de Vigo (oficinas direccion),VIGO,PONTEVEDRA,42.2263,-8.7352,En centros docentes
+2162,Colegio Sagrado Corazón de Jesús,Colexio Sagrado Corazón de Jesús (pabellon deportes),PONTEVEDRA,PONTEVEDRA,42.4269,-8.633,En centros docentes
+2167,USC (Campus Santiago),Estacion Hidrobioloxica Encoro do Con (Vilagarcia),VILAGARCIA DE AROUSA,PONTEVEDRA,42.6119,-8.7238,En centros docentes
+2180,LEROY MERLIN VIGO,LEROY MERLIN VIGO,VIGO,PONTEVEDRA,42.2184,-8.7041,En empresa privada
+2181,CATOIRA S. D.,Campo de fútbol de As Lombas,CATOIRA,PONTEVEDRA,42.671,-8.7184,En instalaciones deportivas
+2182,PLASTIC OMNIUM AUTO INERGY,PLASTIC OMNIUM - Planta de PLÁSTICOS,GONDOMAR,PONTEVEDRA,42.1561,-8.7214,En empresa privada
+2183,PLASTIC OMNIUM AUTO INERGY,PLASTIC OMNIUM - Planta de METAL,GONDOMAR,PONTEVEDRA,42.1561,-8.7214,En empresa privada
+2188,Proteccion Civil de Marín,Base Voluntarios Proteccion Civil (Granxa de Briz-Parque dos sentidos),MARIN,PONTEVEDRA,42.3892,-8.705,Protección civil (no amb.)
+2191,PARQUE BOMBEIROS DEZA,PARQUE BOMBEIROS DEZA,SILLEDA,PONTEVEDRA,42.6936,-8.225,Otros
+2195,Concello de PONTECESURES,Base de Protección Civil de Pontecesures,PONTECESURES,PONTEVEDRA,42.7211,-8.6533,Protección civil (no amb.)
+2211,TUBOS NORTE S. A.,TUBOS MECÁNICOS NORTE SA. PARQUE EMPRESARIAL DE VEIGADAÑA,MOS,PONTEVEDRA,42.1924,-8.6166,En empresa privada
+2222,Proteccion Civil de CALDAS de REIS,Base de Proteccion Civil (Casa do Concello),CALDAS DE REIS,PONTEVEDRA,42.6025,-8.6422,Protección civil (no amb.)
+2225,CONSORCIO PROVINCIAL BOMBEROS DE PONTEVEDRA,Base Bomberos VILAGARCIA AROSA,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5941,-8.7708,Otros
+2226,CONSORCIO PROVINCIAL BOMBEROS DE PONTEVEDRA,Base Bomberos RIBADUMIA,RIBADUMIA,PONTEVEDRA,42.5222,-8.7797,Otros
+2227,CONSORCIO PROVINCIAL BOMBEROS DE PONTEVEDRA,Base Bomberos DO MORRAZO,BUEU,PONTEVEDRA,42.3061,-8.7921,Otros
+2229,Proteccion Civil de CALDAS de REIS,Base de Proteccion Civil (Casa do Concello),CALDAS DE REIS,PONTEVEDRA,42.6025,-8.6422,Protección civil (no amb.)
+2244,Concello de Sanxenxo,Camion de BOMBEROS (Servicio local de emergencias y Proteccion Civil),SANXENXO,PONTEVEDRA,42.4002,-8.828,Otros
+2248,Concello de Sanxenxo,Casa do Concello,SANXENXO,PONTEVEDRA,42.4002,-8.8063,Otros
+2249,ENXEBRE (vivienda comunitaria),ENXEBRE (vivienda comunitaria),RODEIRO,PONTEVEDRA,42.6591,-7.9305,En empresa privada
+2252,POLICIA NACIONAL DE VIGO,COMISARIA POLICIA NACIONAL VIGO (entrada),VIGO,PONTEVEDRA,42.2247,-8.7302,Otros
+2259,Colegio Lar,Colexio Lar (secretaria),MOS,PONTEVEDRA,42.2071,-8.6602,En centros docentes
+2271,PROTECCiON CIVIL DE VILABOA,Base de Proteccion Civil,VILABOA,PONTEVEDRA,42.3611,-8.6405,Protección civil (no amb.)
+2278,IES A Guía,IES A Guía (planta baja),VIGO,PONTEVEDRA,42.2533,-8.6988,En centros docentes
+2282,CPR San Fermin- Padres Somascos,CPR San Fermín - Padres Somascos,CALDAS DE REIS,PONTEVEDRA,42.605,-8.6475,En centros docentes
+2286,Piscina Municipal CAMBADOS,Piscina municipal (recepción),CAMBADOS,PONTEVEDRA,42.5227,-8.8155,En piscina pública
+2287,Serviocio BeOne MONTERREAL,BeOne MONTERREAL (recepción),BAIONA,PONTEVEDRA,42.1051,-8.8182,En instalaciones deportivas
+2303,Comandancia GUARDIA CIVIL de PONTEVEDRA,Acuartelamiento de la Guardia Civil de Vigo,VIGO,PONTEVEDRA,42.2241,-8.7258,Otros
+2316,ALLIANCE HEALTHCARE ESPAÑA S.A.,ALLIANCE HEALTHCARE S. A.,MEIS,PONTEVEDRA,42.5297,-8.6986,En empresa privada
+2334,LA VENECIANA S. A.,LA VENECIANA S. A. (en oficinas),LALIN,PONTEVEDRA,42.678,-8.1366,En empresa privada
+2339,DALPHI METAL ESPAÑA S. A.,DALPHI METAL VIGO (NAVE E),VIGO,PONTEVEDRA,42.2073,-8.7564,En empresa privada
+2340,DALPHI METAL ESPAÑA S. A.,DALPHI METAL VIGO (NAVE A),VIGO,PONTEVEDRA,42.2053,-8.7563,En empresa privada
+2343,Piscina Municipal de Fontecarmoa,PIscina municipal de Fontecarmoa,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5841,-8.7751,En piscina pública
+2348,Mancomunidad concellos VALMIÑOR,Base del G. E. S. Val Miñor,NIGRAN,PONTEVEDRA,42.136,-8.8039,Protección civil (no amb.)
+2352,LA VENECIANA GLASSOLUTIONS S. A.,LA VENECIANA GLASSOLUTIONS S.A. (en taller),MOS,PONTEVEDRA,42.2,-8.6,En empresa privada
+2353,Universidad de Vigo,Facultad de Economicas y Empresariales (conserjeria),VIGO,PONTEVEDRA,42.1702,-8.6808,En centros docentes
+2354,Universidad de Vigo,Facultade de Filoloxia (conserjeria),VIGO,PONTEVEDRA,42.1689,-8.6783,En centros docentes
+2358,ALUDEC S. A.,ALUDEC INYECCION S.A. (oficina),PONTEVEDRA,PONTEVEDRA,42.4097,-8.588,En empresa privada
+2359,ALUDEC S. A.,ALUDEC COMPONENTES S. L. (recepción),PONTE-CALDELAS,PONTEVEDRA,42.4011,-8.5836,En empresa privada
+2367,DS SMITH PACKAGING GALICIA S. A.,DS SMITH PACKAGING GALICIA S.A. (zona de máquinas auxiliares),VILAGARCIA DE AROUSA,PONTEVEDRA,42.594,-8.7211,En empresa privada
+2368,DS SMITH PACKAGING GALICIA S. A.,DS SMITH PACKAGING GALICIA S.A. (zona de ondulacion),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5938,-8.7211,En empresa privada
+2372,DIRECCION PROVINCIAL SEPE (servicio público de empleo estatal),Direccion Provincial SEPE (planta baja),VIGO,PONTEVEDRA,42.24,-8.7302,Administraciones o instituciones públicas
+2388,Mc FIT VIGO S.L.U.,Gimnasio Mc FIT VIGO,VIGO,PONTEVEDRA,42.2322,-8.7027,En instalaciones deportivas
+2395,AUTORIDAD PORTUARIA VILAGARCÍA,Edificio de la Autoridad Portuaria (planta baja),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5938,-8.7755,Otros
+2396,AUTORIDAD PORTUARIA VILAGARCÍA,Edificio de Control de Servizos e Emerxencias do Porto (planta baja),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5938,-8.7755,Otros
+2404,Concello de SILLEDA,Campo de Futbol de Outeiriño,SILLEDA,PONTEVEDRA,42.7027,-8.2447,En instalaciones deportivas
+2405,Concello de SILLEDA,Campo de Futbol de A Gandareira,SILLEDA,PONTEVEDRA,42.7338,-8.3002,En instalaciones deportivas
+2409,BIMBA y LOLA S. L.,Almacenes BIMBA y LOLA (en control de seguridad),MOS,PONTEVEDRA,42.2294,-8.6077,En empresa privada
+2414,VITRASA (VIGUESA DE TRANSPORTES),Nave central de VITRASA (en aula de formación),VIGO,PONTEVEDRA,42.2033,-8.7552,En empresa privada
+2436,REAL CLUB CELTA S.A. D.,Sede del CELTA S.A.D. (planta 4º oficinas),VIGO,PONTEVEDRA,42.2363,-8.7219,En empresa privada
+2442,IES Alexandre Bóveda,IES Alexandre Bóveda (pasillo conserjería),VIGO,PONTEVEDRA,42.2152,-8.7502,En centros docentes
+2459,Concello de Vigo,Edificio do concello,VIGO,PONTEVEDRA,42.2359,-8.7292,Administraciones o instituciones públicas
+2464,Deputación de Pontevedra,Castelo de Soutomaior (vestíbulo principal),SOUTOMAIOR,PONTEVEDRA,42.3298,-8.5703,Administraciones o instituciones públicas
+2465,MARSAN TRANSFORMACIONES S. L. U.,MARSAN TRANSFORMACIONES S. L. U. (entrada principal),VIGO,PONTEVEDRA,42.1787,-8.7101,En empresa privada
+2466,BENTELER AUTOMOTIVE S. L.,Benteler Automotive S. L. (almacén),VIGO,PONTEVEDRA,42.1753,-8.7118,En empresa privada
+2467,CUALTIS S. L. U.,CUALTIS S.L.U. (recepción),VIGO,PONTEVEDRA,42.2114,-8.7491,En empresa privada
+2483,Colegio BOUZA BREY,Colegio Bouza Brey (planta baja),VIGO,PONTEVEDRA,42.238,-8.6952,En centros docentes
+2487,Gestión Hotelera Onix Vigo S. L.,Gran Hotel NAGARI,VIGO,PONTEVEDRA,42.2396,-8.7214,En empresa privada
+2489,Cooperativa Armadores de Pesca del Puerto de Vigo,Cooperativa Amadores de Pesca del Puerto de Vigo,VIGO,PONTEVEDRA,42.2368,-8.7327,En empresa privada
+2490,MAGARIÑOS SUMINISTROS NÁUTICOS S. L.,MAGARIÑOS SUMINISTROS NÁUTICOS S. L.,VIGO,PONTEVEDRA,42.2249,-8.7474,En empresa privada
+2497,Concello de Cangas,Base de Proteccion Civil,CANGAS,PONTEVEDRA,42.2677,-8.7633,Protección civil (no amb.)
+2506,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (PALCOS VIP),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2507,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (TRIBUNA BAJA-GOL),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2508,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (TRIBUNA BAJA-MARCADOR),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2509,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (TRIBUNA ALTA-GOL),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2510,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (grada de MARCADOR),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2511,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (grada RIO BAJO - Marcador)),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2512,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (grada RIO ALTO - Marcador)),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2513,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (grada RIO ALTO - Gol),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2514,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (ESTADIO ABANCA),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2515,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (ESTADIO ABANCA),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2516,REAL CLUB CELTA S.A. D.,Estadio de Balaidos (ESTADIO ABANCA),VIGO,PONTEVEDRA,42.2119,-8.7402,En instalaciones deportivas
+2521,Concello de Nigrán,CEIP Da Cruz,NIGRAN,PONTEVEDRA,42.1531,-8.7868,En centros docentes
+2522,Concello de Nigrán,CEIP Carlos Casares,NIGRAN,PONTEVEDRA,42.1177,-8.7926,En centros docentes
+2523,Concello de Nigrán,CEIP Humberto Juanes,NIGRAN,PONTEVEDRA,42.1406,-8.8095,En centros docentes
+2524,Concello de Nigrán,CEIP Mallón,NIGRAN,PONTEVEDRA,42.1257,-8.8126,En centros docentes
+2525,Concello de Nigrán,Escola Infantil Galiña azul,NIGRAN,PONTEVEDRA,42.1394,-8.8124,En centros docentes
+2526,Concello de Nigrán,Escola Infantil As dunas,NIGRAN,PONTEVEDRA,42.1435,-8.8203,En centros docentes
+2527,Concello de Nigrán,Campo de fútbol de Condomínguez,NIGRAN,PONTEVEDRA,42.1524,-8.7975,En instalaciones deportivas
+2528,Concello de Nigrán,Campo de fútbol de San Pedro de Vilariño,NIGRAN,PONTEVEDRA,42.1196,-8.802,En instalaciones deportivas
+2536,Centro de Visitantes Parque Nacional de las Islas Atlánticas de Galicia,Centro de Visitantes Parque Islas Atlánticas (primera planta),VIGO,PONTEVEDRA,42.2391,-8.7255,Administraciones o instituciones públicas
+2537,Centro de Visitantes Parque Nacional de las Islas Atlánticas de Galicia,Centro de Interpretación ISLAS CÍES,VIGO,PONTEVEDRA,42.2187,-8.9042,En playa
+2538,Centro de Visitantes Parque Nacional de las Islas Atlánticas de Galicia,Puesto sanitario ISLAS ONS,BUEU,PONTEVEDRA,42.3758,-8.933,En playa
+2539,Centro de Visitantes Parque Nacional de las Islas Atlánticas de Galicia,Caseta de vigilancia e información ISLA de CORTEGADA,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6152,-8.7855,En playa
+2542,BORGWAGNER EMISSIONS SYSTEMS SPAIN S.L.,BORGWAGNER EMISSIONS SYSTEMS SPAIN S. L.,VIGO,PONTEVEDRA,42.1567,-8.7145,En empresa privada
+2546,Concello de Gondomar,Campo de fútbol AS CERCAS (cantina),GONDOMAR,PONTEVEDRA,42.109,-8.7627,En instalaciones deportivas
+2547,Concello de Gondomar,Campo de fútbol AS GAIANDAS (vestuarios),GONDOMAR,PONTEVEDRA,42.1135,-8.7652,En instalaciones deportivas
+2552,Conservas Antonio Alonso S. A.,Conservas Antonio Alonso (en oficinas),BUEU,PONTEVEDRA,42.3084,-8.7919,En empresa privada
+2553,Conservas Antonio Alonso S. A.,Conservas Antonio Alonso (en enfermería),BUEU,PONTEVEDRA,42.3083,-8.7919,En empresa privada
+2554,Conservas Antonio Alonso S. A.,Conservas Antonio Alonso (en almacén),BUEU,PONTEVEDRA,42.308,-8.7902,En empresa privada
+2560,Concello de Vilagarcía de Arousa,BASE de PROTECCION CIVIL,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5883,-8.7644,Protección civil (no amb.)
+2565,Abanca Corporación Bancaria,Oficina ABANCA (planta baja),VIGO,PONTEVEDRA,42.2381,-8.7172,En empresa privada
+2577,XUNTA DE GALICIA,Edificio Administrativo Xunta (entrada principal),VIGO,PONTEVEDRA,42.2396,-8.7212,Administraciones o instituciones públicas
+2585,SATEC S. A.,SATEC S. A. (en sala de primeros auxilios),VIGO,PONTEVEDRA,42.1777,-8.7061,En empresa privada
+2587,INASUS S. L.,INASUS S. L. (oficinas),LALIN,PONTEVEDRA,42.6729,-8.1519,En empresa privada
+2588,INASUS S. L.,INASUS S. L. (nave de producción),LALIN,PONTEVEDRA,42.673,-8.1519,En empresa privada
+2670,ASTILLEROS NODOSA S. L.,Astilleros NODOSA S. L. (en garita entrada),MARIN,PONTEVEDRA,42.3941,-8.6949,En empresa privada
+2671,GONVAUTO GALICIA S. A.,GONVAUTO GALICIA S. A. (EDIFICIO DE OFICINAS),MARIN,PONTEVEDRA,42.4039,-8.689,En empresa privada
+2675,Fundación Galicia Obra Social ABANCA,Sede A FUNDACIÓN (planta baja),PONTEVEDRA,PONTEVEDRA,42.4291,-8.6458,En empresa privada
+2680,Balneario ACUÑA,BALNEARIO ACUÑA (recepción),CALDAS DE REIS,PONTEVEDRA,42.6036,-8.6425,En empresa privada
+2682,LIMPIEZAS CLECE S.A. VIGO,Limpiezas CLECE (oficinas),VIGO,PONTEVEDRA,42.2328,-8.7226,En empresa privada
+2683,Escuela Infantil Bamby,Escuela Infantil Bamby,PONTEVEDRA,PONTEVEDRA,42.4294,-8.6499,En empresa privada
+2684,Asociación Escola Rosalía de Castro,Escola Rosalía de Castro (en el pabellón deportivo),VIGO,PONTEVEDRA,42.2099,-8.6938,En centros docentes
+2685,CEIP Alfonso D. Rodríguez Castelao,CEIP Alfonso D. Rodríguez Castelao,VIGO,PONTEVEDRA,42.2088,-8.7602,En centros docentes
+2688,Centro Deportivo BeOne Campolongo S. L.,Centro Deportivo BeOne Campolongo S. L.,PONTEVEDRA,PONTEVEDRA,42.4272,-8.6444,En instalaciones deportivas
+2712,Club Náutico de Portonovo,Edificio de Servicios del Club Náutico Portonovo (en oficina de marinería),SANXENXO,PONTEVEDRA,42.3988,-8.8269,En instalaciones deportivas
+2714,Grupo Nueva PESCANOVA,Edificio Pescanova (servicio médico),REDONDELA,PONTEVEDRA,42.2743,-8.6696,En empresa privada
+2715,Grupo Nueva PESCANOVA,Edificio Pescanova (pasillo central acceso a vestuarios),REDONDELA,PONTEVEDRA,42.2744,-8.6693,En empresa privada
+2718,Colegio MIRALBA (Jesuitinas),Colegio Jesuitanas Miralba (entrada principal),VIGO,PONTEVEDRA,42.2215,-8.7289,En centros docentes
+2719,Colegio MIRALBA (Jesuitinas),Colegio Jesuitinas Miralba (acceso a vestuarios),VIGO,PONTEVEDRA,42.2213,-8.7288,En centros docentes
+2727,CEIP Plurilingüe Frián-Teis,CEIP Plurilingüe Frián-Teis,VIGO,PONTEVEDRA,42.2416,-8.6944,En centros docentes
+2729,PISCINA MUNICIPAL CALDAS DE REIS,Piscina municipal de Caldas de Reis,CALDAS DE REIS,PONTEVEDRA,42.6036,-8.6361,En piscina pública
+2741,Universidad de Vigo,ESTACIÓN DE CIENCIAS MARINAS DE TORALLA (CORUXO),VIGO,PONTEVEDRA,42.202,-8.8006,En centros docentes
+2743,Delegación Territorial de Pontevedra - Xefatura Territorial C. Presidencia,Delegación Territorial Pontevedra - Xunta de Galicia,PONTEVEDRA,PONTEVEDRA,42.4244,-8.6444,Administraciones o instituciones públicas
+2746,RESIDENCIA BALLESOL,RESIDENCIA BALLESOL POIO (VESTÍTUBO ACCESO A COMEDOR),POIO,PONTEVEDRA,42.4336,-8.6583,En empresa privada
+2749,Concello de Pontevedra,Campo de fútbol Xunqueira II,PONTEVEDRA,PONTEVEDRA,42.4382,-8.6361,En instalaciones deportivas
+2764,Concello de Vilagarcía de Arousa,Praia Campanario,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6333,-8.7611,Protección civil (no amb.)
+2765,Concello de Vilagarcía de Arousa,Praia Preguntoiro,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5877,-8.7905,En playa
+2766,Concello de Vilagarcía de Arousa,Praia Concha-Compostela,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6047,-8.7677,En playa
+2767,Concello de Vilagarcía de Arousa,Campo de Fútbol de Vilaxoán,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5886,-8.7852,En instalaciones deportivas
+2768,Concello de Vilagarcía de Arousa,Pavillón Deportivo Castelao,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5938,-8.7663,En instalaciones deportivas
+2769,Concello de Vilagarcía de Arousa,Biblioteca Municipal,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5969,-8.7647,Administraciones o instituciones públicas
+2770,Concello de Vilagarcía de Arousa,Casa Consistorial (junto a la Sala de Plenos y las dependencias de la Policía Local),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5972,-8.7647,Administraciones o instituciones públicas
+2771,Concello de Vilagarcía de Arousa,Escola de Música (pasillo de aulas),VILAGARCIA DE AROUSA,PONTEVEDRA,42.6,-8.7647,En centros docentes
+2772,Concello de Vilagarcía de Arousa,Campo de Fútbol de Berdón,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6061,-8.7494,En instalaciones deportivas
+2773,Concello de Vilagarcía de Arousa,Praza de Abastos,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5944,-8.768,Otros
+2775,IES Frei Martín Sarmiento,IES Frei Martín Sarmiento (junto a conserjería-planta 0),PONTEVEDRA,PONTEVEDRA,42.4256,-8.6399,En centros docentes
+2782,CONCELLO DE PONTEAREAS,PARQUE DE BOMBEIROS PONTEAREAS,PONTEAREAS,PONTEVEDRA,42.1702,-8.5005,Administraciones o instituciones públicas
+2783,CONCELLO DE PONTEAREAS,COMPLEXO ÁLVARO PINO PONTEAREAS,PONTEAREAS,PONTEVEDRA,42.1783,-8.5069,Administraciones o instituciones públicas
+2784,CONCELLO DE PONTEAREAS,CAMPO MUNICIPAL DE FÚTBOL DE PARDELLAS,PONTEAREAS,PONTEVEDRA,42.1838,-8.5138,Administraciones o instituciones públicas
+2785,CONCELLO DE PONTEAREAS,PISCINA MUNICIPAL PONTEAREAS,PONTEAREAS,PONTEVEDRA,42.1777,-8.5077,Administraciones o instituciones públicas
+2786,CONCELLO DE PONTEAREAS,MERCADO DE ABASTOS PONTEAREAS,PONTEAREAS,PONTEVEDRA,42.1777,-8.5077,Administraciones o instituciones públicas
+2787,CONCELLO DE PONTEAREAS,CAMPO DE FÚTBOL DE ANGOARES PONTEAREAS,PONTEAREAS,PONTEVEDRA,42.1633,-8.5122,Administraciones o instituciones públicas
+2788,Concello de TOMIÑO,CAMPO DE FÚTBOL A CARBALLA,TOMIÑO,PONTEVEDRA,41.9894,-8.7302,Administraciones o instituciones públicas
+2789,Concello de TOMIÑO,CAMPO DE FÚTBOL O REGATIÑO,TOMIÑO,PONTEVEDRA,41.9486,-8.7711,Administraciones o instituciones públicas
+2796,Universidad de Vigo,ESCUELA INGENIERÍA INDUSTRIAL TORRECEDEIRA VIGO,VIGO,PONTEVEDRA,42.2272,-8.7344,En centros docentes
+2811,CPI PROGRESO,CPI Progreso (xunto conserxería),CATOIRA,PONTEVEDRA,42.6702,-8.7252,En centros docentes
+2814,CONCELLO PAZOS DE BORBEN,CENTRO DE SALUD PAZOS DE BORBÉN (PASILLO DE ENTRADA AL CENTRO),PAZOS DE BORBEN,PONTEVEDRA,42.293,-8.5319,Administraciones o instituciones públicas
+2835,RESIDENCIA BALLESOL,RESIDENCIA BALLESOL VIGO (VESTÍTUBO ACCESO A COMEDOR),VIGO,PONTEVEDRA,42.2336,-8.7177,En empresa privada
+2898,MetalShips&Docks,Metalships & Docks (Servicio Médico),VIGO,PONTEVEDRA,42.2584,-8.6884,En empresa privada
+2911,Asociación La Esperanza del Valle Miñor,Centro de Educación Especial Juan María (despacho administración),NIGRAN,PONTEVEDRA,42.1242,-8.7877,Otros
+2918,Colegio Casa de la Virgen,Colegio Casa de la Virgen (entrada),CANGAS,PONTEVEDRA,42.2611,-8.7659,En centros docentes
+2924,Concello de Vilagarcía de Arousa,Recinto ferial Fexdega (acceso entrada principal),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5902,-8.7638,Otros
+2925,Concello de Vilagarcía de Arousa,Auditorio Municipal (junto a las escaleras),VILAGARCIA DE AROUSA,PONTEVEDRA,42.598,-8.7666,Administraciones o instituciones públicas
+2927,Concello de Vilagarcía de Arousa,Pabellón Polideportivo Fontecarmoa (junto al mesado del campo de juego),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5844,-8.7724,En instalaciones deportivas
+2928,Concello de Vilagarcía de Arousa,Campo de Fútbol Manuel Jiménez Abalo (Vestuarios),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5836,-8.7724,En instalaciones deportivas
+2929,Felipe Gómez Morgade,DOMICILIO PARTICULAR (se puede trasladar si es necesario),VIGO,PONTEVEDRA,42.2105,-8.7544,Otros
+2937,Residencia As Dores-Asociación para la Protección de los Ancianos de Lalín y su Comarca (APALC),Residencia As Dores (APALC) ubicado en despacho médico,LALIN,PONTEVEDRA,42.6627,-8.11,Otros
+2995,Deputación de Pontevedra,Deputación Provincial de Pontevedra -Pazo Provincial (Control de Vixilancia),PONTEVEDRA,PONTEVEDRA,42.4302,-8.648,Administraciones o instituciones públicas
+2996,Cooperativa Enseñanza Santiago Apostol,Colegio Santiago Apostol (frente conserjería),SOUTOMAIOR,PONTEVEDRA,42.3371,-8.5861,En centros docentes
+3003,Concello de Tui,Campo Municipal de Fútbol A Gándara,TUI,PONTEVEDRA,42.0793,-8.6273,En instalaciones deportivas
+3015,Sociedad Cooperativa La Medoña,Sociedad Cooperativa La Medoña (junto a secretaría),NIGRAN,PONTEVEDRA,42.1663,-8.7966,Otros
+3021,Liceo Marítimo de Bouzas,Liceo Marítimo de Bouzas,VIGO,PONTEVEDRA,42.2269,-8.7518,Otros
+3035,Colegio Padre Míguez (Calasancias),Colexio Padre Míguez-Calasancias (vestíbulo),VIGO,PONTEVEDRA,42.2249,-8.7025,En centros docentes
+3082,Asociación Galega de Aridos,MIBASA (Monte Fabeira),SILLEDA,PONTEVEDRA,42.77,-8.2908,En empresa privada
+3094,Asociación Galega de Aridos,Aridos del Umia (Umia),MEIS,PONTEVEDRA,42.546,-8.6997,En empresa privada
+3096,SNOP ESTAMPACIÓN S.A.,SNOP ESTAMPACIÓN,NIGRAN,PONTEVEDRA,42.137,-8.7912,En empresa privada
+3097,MAXELGA SL,Maxelga Delikia (entrada principal),GONDOMAR,PONTEVEDRA,42.1612,-8.7251,En empresa privada
+3128,CAPD de Redondela,CAPD de Redondela,REDONDELA,PONTEVEDRA,42.2554,-8.6652,Otros
+3142,Centro Integrado Formación Profesional A Granxa,CIFP A Granxa (puerta entrada residencia femenina),PONTEAREAS,PONTEVEDRA,42.1808,-8.5201,En centros docentes
+3143,Congregación Hermanas Franciscanas Hospitalarias,Residencia Paz y Bien,TUI,PONTEVEDRA,42.0486,-8.6493,Otros
+3169,Federación Down Galicia,Federación Down Vigo,VIGO,PONTEVEDRA,42.2275,-8.7001,Otros
+3175,Concello de TOMIÑO,Campo de fútbol do Alivio (acceso vestiarios),TOMIÑO,PONTEVEDRA,41.9857,-8.7435,En instalaciones deportivas
+3202,Federación Down Galicia,Federación Down Galicia - Vigo,VIGO,PONTEVEDRA,42.2287,-8.6978,Otros
+3209,Federación Galega de Ciclismo,Sede Federación Galega de Ciclismo (Casa do Deporte),VIGO,PONTEVEDRA,42.2173,-8.7431,Otros
+3225,Autoridade Portuaria de Vigo,Centro Social de la Autoridad Portuaria de Vigo (1ª planta - pasillo enfermería),VIGO,PONTEVEDRA,42.24,-8.7158,Administraciones o instituciones públicas
+3226,Autoridade Portuaria de Vigo,Sede Autoridad Portuaria de Vigo (entrada principal),VIGO,PONTEVEDRA,42.2404,-8.7202,Administraciones o instituciones públicas
+3227,Autoridade Portuaria de Vigo,Caseta Policía Portuaria (entrada al puerto Vigo-Guixar),VIGO,PONTEVEDRA,42.2449,-8.7076,Administraciones o instituciones públicas
+3228,Autoridade Portuaria de Vigo,Caseta Policía Portuaria (entrada Bouzas),VIGO,PONTEVEDRA,42.2306,-8.7535,Administraciones o instituciones públicas
+3229,Autoridade Portuaria de Vigo,Lonxa de altura (sala de subastas central),VIGO,PONTEVEDRA,42.2335,-8.7348,Administraciones o instituciones públicas
+3230,Autoridade Portuaria de Vigo,Lonxa de grandes peixes e baixura (sala de subastas central),VIGO,PONTEVEDRA,42.2353,-8.7333,Administraciones o instituciones públicas
+3235,Concello de Vilagarcía de Arousa,Pabellón de Faxilde,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5827,-8.7852,En instalaciones deportivas
+3236,Concello de Vilagarcía de Arousa,Campo de Fútbol de Bamio,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6386,-8.7513,En instalaciones deportivas
+3237,Concello de Vilagarcía de Arousa,Pabellón de Guillán,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6111,-8.7588,En instalaciones deportivas
+3238,Concello de Vilagarcía de Arousa,Campo de Fútbol da Pelada,VILAGARCIA DE AROUSA,PONTEVEDRA,42.5764,-8.782,En instalaciones deportivas
+3239,Concello de Vilagarcía de Arousa,Pabellón de Carril,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6155,-8.77,En instalaciones deportivas
+3240,Concello de Vilagarcía de Arousa,Pabellón da Torre,VILAGARCIA DE AROUSA,PONTEVEDRA,42.6044,-8.7533,En instalaciones deportivas
+3241,Concello de Vilagarcía de Arousa,Estado Municipal de A Lomba,VILAGARCIA DE AROUSA,PONTEVEDRA,42.588,-8.7661,En instalaciones deportivas
+3250,Uxío Figueroa Costas,Domicilio particular,VIGO,PONTEVEDRA,42.2059,-8.7686,Otros
+3254,CUALTIS S. L. U.,Campus Universitario de Vigo - Servicio de Prevención Riesgos Laborales (en la enfermería),VIGO,PONTEVEDRA,42.1698,-8.6859,Administraciones o instituciones públicas
+3264,Comunidad de Propietarios,Comunidad de Propietarios - rellano 2ª planta (entre las puertas C y D),MOS,PONTEVEDRA,42.2091,-8.6544,Otros
+3265,Comunidad de Propietarios Pontiñas,Comunidad de Propietarios Pontiñas (en el portal),LALIN,PONTEVEDRA,42.6653,-8.109,Otros
+3275,Concello de Pontecaldelas,Praia Fluvial A Calzada,PONTE-CALDELAS,PONTEVEDRA,42.3911,-8.4911,En playa
+3289,Concello de Moaña,Policía Local (Casa do Concello),MOAÑA,PONTEVEDRA,42.2871,-8.7333,Administraciones o instituciones públicas
+3290,Concello de Moaña,Pavillón deportivo de Reibón (parede sur da pista deportiva),MOAÑA,PONTEVEDRA,42.2886,-8.7292,En instalaciones deportivas
+3295,Concello de Moaña,Pavillón deportivo do Rosal (parede oeste da pista deportiva),MOAÑA,PONTEVEDRA,42.2906,-8.7364,En instalaciones deportivas
+3296,Concello de Moaña,Campo de fútbol Municipal Iago Aspas Juncal (corredor vestiarios),MOAÑA,PONTEVEDRA,42.2811,-8.7505,En instalaciones deportivas
+3299,Astilleros Armon-Vigo SA,Astilleros Armon Vigo (oficina de Prevención y Seguridad),VIGO,PONTEVEDRA,42.225,-8.7411,En empresa privada
+3322,Federación Galega de Baloncesto,Federación Galega de Baloncesto - Delegación Vigo,VIGO,PONTEVEDRA,42.2279,-8.7285,Otros
+3327,Clínica Podología Vales Gudín,Clínica Podología Vales Gudín,PONTEVEDRA,PONTEVEDRA,42.4251,-8.6369,Otros
+3347,ALCAMPO,Alcampo (pasillo entrada hipermercado),VILAGARCIA DE AROUSA,PONTEVEDRA,42.5949,-8.7557,En empresa privada
+3350,REAL CLUB CELTA S.A. D.,R.C. Celta de Vigo - Instalaciones A Madroa (edif. principal),VIGO,PONTEVEDRA,42.2468,-8.6733,En instalaciones deportivas
+3351,REAL CLUB CELTA S.A. D.,R.C. Celta de Vigo - Instalaciones A Madroa (edif. principal),VIGO,PONTEVEDRA,42.2468,-8.6733,En instalaciones deportivas
+3352,REAL CLUB CELTA S.A. D.,R.C. Celta de Vigo - Instalaciones Afouteza (edif. principal),MOS,PONTEVEDRA,42.1811,-8.6639,En instalaciones deportivas
+3353,REAL CLUB CELTA S.A. D.,R.C. Celta de Vigo - Instalaciones Afouteza (edif. principal),MOS,PONTEVEDRA,42.1811,-8.6639,En instalaciones deportivas
+3354,REAL CLUB CELTA S.A. D.,R.C. Celta de Vigo - Estadio Municipal de Barreiro (edificio principal-enfermería),VIGO,PONTEVEDRA,42.2285,-8.6808,En instalaciones deportivas
+3356,Club de Taekwondo Hebe,Club de Taekwondo Hebe (puerta principal),MOAÑA,PONTEVEDRA,42.2746,-8.739,En empresa privada
+3379,Club de Halterofilia Centaurus,Club de Halterofilia Centaurus (acceso vestiarios),MOS,PONTEVEDRA,42.211,-8.6553,En instalaciones deportivas
+3398,Consorcio Zona Franca de Vigo,Centro de Iniciativas Empresariales y de Negocios (acceso a la cafetería),NIGRAN,PONTEVEDRA,42.1335,-8.7946,En empresa privada
+3401,Centro Universitario de Defensa Escuela Naval Militar,CUD Escuela Naval Militar (1ª planta edificio administrativo),MARIN,PONTEVEDRA,42.3946,-8.7043,En centros docentes
+3426,Centro Ocupacional O Saiar,Centro Ocupacional O Saiar (recepción),CALDAS DE REIS,PONTEVEDRA,42.5928,-8.7048,Otros
+3429,Universidad de Vigo,Escola de Enxeñaría de Telecomunicacións (corredor central),VIGO,PONTEVEDRA,42.1701,-8.6881,En centros docentes
+3434,Universidad de Vigo,Facultade de Fisioterapia (frente a conserxería),PONTEVEDRA,PONTEVEDRA,42.4411,-8.6365,En centros docentes
+3442,Universidad de Vigo,Edificio Ciencias Experimentais (frente a conserxería),VIGO,PONTEVEDRA,42.1672,-8.6855,En centros docentes
+3454,Dirección Xeral de Emerxencias e Interior,Sede Policía Autonómia Pontevedra (planta baixa-control de seguridade),PONTEVEDRA,PONTEVEDRA,42.4247,-8.6448,Administraciones o instituciones públicas
+3455,Dirección Xeral de Emerxencias e Interior,Sede Policía Autonómia Vigo (planta baixa-control de seguridade),VIGO,PONTEVEDRA,42.2271,-8.6999,Administraciones o instituciones públicas
+3465,Club Marítimo de Canido,Club Marítimo de Canido (en conserjería),VIGO,PONTEVEDRA,42.1938,-8.8009,Otros
+3476,Centro Deportivo BeOne Campolongo S. L.,Praia de Pontesampaio,PONTEVEDRA,PONTEVEDRA,42.3458,-8.6044,En playa
+3477,Asociación de Industrias del Metal y Tecnologías Asociadas (ASIME),ASIME (primera planta- Aula 6),VIGO,PONTEVEDRA,42.2523,-8.6972,En empresa privada
+3480,Asociación Propietarios Canido-San Miguel de O,Asociación de Propietarios Canido (entrada local),VIGO,PONTEVEDRA,42.1895,-8.8031,Otros
+3512,Concello de Valga,Escola Infantil Municipal de Valga (patio interior),VALGA,PONTEVEDRA,42.7037,-8.6521,En centros docentes
+3516,IES Marco do Camballón,IES Marco do Camballón,VILA DE CRUCES,PONTEVEDRA,42.7927,-8.1601,En centros docentes
+3527,Concello de Pontevedra,Ximnasio ONCE,PONTEVEDRA,PONTEVEDRA,42.4216,-8.643,En instalaciones deportivas
+3528,Concello de Pontevedra,Campo de Fútbol de Cerponzóns,PONTEVEDRA,PONTEVEDRA,42.4808,-8.6405,En instalaciones deportivas
+3529,Concello de Pontevedra,Campo de Fútbol de Ponte Sampaio,PONTEVEDRA,PONTEVEDRA,42.3462,-8.6027,En instalaciones deportivas
+3530,Concello de Pontevedra,Campo de Fútbol de Gatomorto,PONTEVEDRA,PONTEVEDRA,42.4648,-8.6148,En instalaciones deportivas
+3531,Concello de Pontevedra,Campo de Fútbol de Campañó,PONTEVEDRA,PONTEVEDRA,42.4576,-8.6589,En instalaciones deportivas
+3544,Fundación Laboral Construcción,Fundación Laboral Construcción (vestíbulo),VIGO,PONTEVEDRA,42.2142,-8.7024,En empresa privada
+3546,Algeco Contrucciones Modulares,Algeco Construcciones Modulares,PONTEAREAS,PONTEVEDRA,42.1799,-8.55,En empresa privada
+3552,Asociación Española contra el Cáncer,Asociación Española contra el Cáncer (recepción),PONTEVEDRA,PONTEVEDRA,42.4251,-8.6368,Otros
+3555,Club Taekwondo Patiño,IES Plurilingüe A Paralaia-Club Taekwondo Patiño (gimnasio),MOAÑA,PONTEVEDRA,42.2943,-8.7351,En centros docentes
+3585,Asociación Vodea,Asociación Vodea - sala de primeros auxilios (dispositivo móvil),VIGO,PONTEVEDRA,42.2229,-8.637,Otros
+3586,Asociación Vodea,Asociación Vodea - sala de primeros auxilios (dispositivo móvil),VIGO,PONTEVEDRA,42.2229,-8.637,Otros
+3600,CIFP Carlos Oroza,CIFP Carlos Oroza (Pasillo Conserjería),PONTEVEDRA,PONTEVEDRA,42.4272,-8.6171,En centros docentes
+3603,Club de Fútbol San Miguel,Campo de Fútbol San Miguel (al lado de la cantina),VIGO,PONTEVEDRA,42.1842,-8.8106,En instalaciones deportivas
+3619,IES Plurilingüe de Valga,IES de Valga (junto a Conserxería),VALGA,PONTEVEDRA,42.7066,-8.656,En centros docentes
+3622,Faramacia Rodríguez Gil,Farmacia Rodríguez Gil,SALCEDA DE CASELAS,PONTEVEDRA,42.1026,-8.5593,En empresa privada
+3655,Federación Galega de Judo e Disciplinas Asociadas,Centro Galego de Tecnificación Deportiva-sección Judo (sala Judo),PONTEVEDRA,PONTEVEDRA,42.432,-8.6381,En instalaciones deportivas
+3691,Cáritas Diocesana Santiago,Cáritas Diocesanas De Santiago (Pontevedra) - Al lado del Comedor- 1ª Planta,PONTEVEDRA,PONTEVEDRA,42.4278,-8.6377,Otros
+3717,Fundación Semana Verde de Galicia,Fundación Semana Verde de Galicia - Sala de espera oficinas - 1ª planta entre Pabellones 1 y 2,SILLEDA,PONTEVEDRA,42.7065,-8.2397,Otros
+3719,Centro Nacional de Formación Marítima de Bamio,Centro Nacional de Formación Marítima de Bamio (planta baja - vestíbulo),VILAGARCIA DE AROUSA,PONTEVEDRA,42.6245,-8.766,En centros docentes
+3720,Centro Nacional de Formación Marítima de Bamio,Centro Nacional de Formación Marítima de Bamio (planta baja - zona docente),VILAGARCIA DE AROUSA,PONTEVEDRA,42.6245,-8.766,En centros docentes
+3721,Centro Nacional de Formación Marítima de Bamio,Centro Nacional de Formación Marítima de Bamio (móvil - Buque auxiliar Muelle Tragobe),VILAGARCIA DE AROUSA,PONTEVEDRA,42.6243,-8.766,En centros docentes
+3749,María del Pilar Loperena Saá (Farmacia Ortopedia Sabarís),Farmacia Ortopedia Sabarís - entrada principal a la izda.,BAIONA,PONTEVEDRA,42.1114,-8.8189,En empresa privada
+3757,MQA Navia SLU,Centro Deportivo Máis Que Auga Navia,VIGO,PONTEVEDRA,42.2139,-8.7572,En instalaciones deportivas
+3783,IES de Poio,IES de Poio (vestíbulo entrada principal frente a conserjería),POIO,PONTEVEDRA,42.4438,-8.6898,En centros docentes
+3785,Clinica dental ALSANA,Clinica dental ALSANA,PONTEAREAS,PONTEVEDRA,42.1712,-8.5082,En empresa privada
+3793,Aduanas Logística Transportes E Intermediación En Unidades De Servicio Sa,Edificio Marina Dávila Sport- pared derecha entrada a oficina en pta. baja,VIGO,PONTEVEDRA,42.2312,-8.7435,En empresa privada
+3800,COGAMI (Confederación gallega de persoas con discapacidade),Cogami - distribuidor pasillo principal pta. 0 frente a ascensor,MOS,PONTEVEDRA,42.2041,-8.6635,Otros
+3802,COGAMI (Confederación gallega de persoas con discapacidade),Centro de recursos Medelo (COGAMI) - Sala de rehabilitación,SILLEDA,PONTEVEDRA,42.7397,-8.2627,Otros
+3803,COGAMI (Confederación gallega de persoas con discapacidade),Centro de recursos Monteporreiro (COGAMI) - Entrada principal,PONTEVEDRA,PONTEVEDRA,42.4469,-8.6216,Otros
+3808,Club Deportivo Mat's,Ximnasio Mat's (entrada principal),MARIN,PONTEVEDRA,42.3908,-8.6979,En instalaciones deportivas
+3817,CLUB CIOS VIGO FÚTBOL SALA,Pabellón Polideportivo del I.E.S.  CASTELAO,VIGO,PONTEVEDRA,42.2326,-8.7013,En centros docentes
+3834,IES de Chapela,IES de Chapela (planta baja-delante Secretaría),REDONDELA,PONTEVEDRA,42.2658,-8.6675,En centros docentes
